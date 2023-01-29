@@ -1,0 +1,55 @@
+.formulaire2{
+    font-family: 'league Script',cursive;
+}
+
+
+
+/* Titre */
+
+#form2Title {
+    margin: 0;
+    margin-top: 20rem;
+    font-size: 4rem;
+    height: 10rem;
+}
+/* fin titre */
+
+/* formualire */
+#form2Container{
+    margin: 0;
+}
+
+#formulaire2{ 
+    font-size: 2rem;   
+}
+
+#labelTable1{
+    color: whitesmoke;
+    font-size: 3rem;
+}
+
+#tableSelect{
+    background-color: rgba(70, 67, 67, 0.658);
+    color: whitesmoke;
+    font-size: 2rem;
+    
+}
+
+#button{
+    color: black;
+    width: 15rem;
+    height: 5rem;
+    font-size: 3rem;
+    font-weight:bold;
+    margin-top: 3rem;
+}
+/* fin de formulaire de choix */
+
+/* affichage des tables */
+
+
+
+#tableSelected p {
+    background-color: #1f1f1f96; ;
+    font-size: 2rem;
+}

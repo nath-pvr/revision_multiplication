@@ -1,0 +1,42 @@
+#formTitle3{
+    margin-top: 20rem;
+    font-family: 'league Script',cursive;
+    font-size: 4rem;
+}
+
+#table{
+    font-size: 1.5rem;
+    color: whitesmoke;
+    background-color: rgba(0, 0, 0, 0.555); 
+}
+
+#answerForm3{
+    font-size: 1.5rem;
+    color: whitesmoke;
+    background-color: rgba(0, 0, 0, 0.555);   
+}
+
+#buttonForm3{
+    font-size: 2rem;
+    font-weight: bold;
+    font-family: 'league Script',cursive;
+    background-color: wheat;
+}
+
+#scoreBoard{
+    font-size: 2rem;
+    color: whitesmoke;
+    background-color: rgba(0, 0, 0, 0.555); 
+}
+
+#scoreBoard th{
+    font-family: 'league Script',cursive;
+}
+
+#form3{
+    padding-top: 8rem;
+}
+
+#scoreBoardContainer{
+    padding-top: 8rem;
+}

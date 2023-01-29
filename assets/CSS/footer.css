@@ -1,0 +1,20 @@
+footer{
+    bottom: 0;
+}
+
+#footerContainer{
+
+    margin: 0;
+    padding: 0;
+    height: 5rem;
+    color:whitesmoke ;
+    font-family: 'league Script',cursive;
+    font-size: 3rem;
+    background-color: #1f1f1f96;
+
+}
+
+footer h3{
+    padding-top: 3rem;
+}
+

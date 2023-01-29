@@ -1,0 +1,66 @@
+.formulaire1{
+    font-family: 'league Script',cursive;
+}
+
+/* Titre */
+#oneTable {
+    margin: 0;
+    padding-top: 20rem;
+    padding-left: 15rem;
+    font-size: 4rem;
+    height: 10rem;
+}
+/* fin titre */
+
+/* formulaire de choix de la table */
+#formContainer{
+    height: 90rem;
+    padding-top: 20rem;
+}
+
+#formulaire1{ 
+
+    height: 5rem;   
+    padding-left: 0;
+    padding-right: 0;
+}
+
+#labelTable1{
+    color: whitesmoke;
+    font-size: 3rem;
+}
+
+#tableSelect{
+    background-color: rgba(70, 67, 67, 0.658);
+    color: whitesmoke;
+    font-size: 2rem;
+    
+}
+
+#button{
+    color: black;
+    height: 5rem;
+    font-size: 3rem;
+    font-weight:bold;
+    margin-top: 3rem;
+}
+/* fin de formulaire de choix */
+
+/* Affichage de la table selectionner */
+#viewTable{
+    
+    background-image: url(../images/multiplyBoard.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+    height: 70rem;
+    margin-top: 10rem;
+    
+}
+
+#viewTable p{
+    font-size: 2rem;
+    margin: 0;
+    margin-top: 3rem;    
+}
+/* fin affichage de la table */
+

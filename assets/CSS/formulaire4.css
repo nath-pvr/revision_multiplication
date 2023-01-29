@@ -1,0 +1,38 @@
+#form4Title{
+    margin-top: 20rem;
+    font-family: 'league Script',cursive;
+    font-size: 4rem;
+}
+
+#tableSelect4_1{
+    background-color: rgba(70, 67, 67, 0.658);
+    color: whitesmoke;
+    font-family: 'league Script',cursive;
+    font-size: 2rem;
+    font-weight: bold;
+}
+
+#labelTable4_1{
+    font-family: 'league Script',cursive;
+    font-size: 2rem;
+}
+
+.buttonTable4_1{
+    margin-top: 5rem;
+    font-family: 'league Script',cursive;
+    font-size: 2rem;
+    font-weight: bold;
+    background-color: wheat;
+}
+
+#answer4_1{
+    background-color: rgba(70, 67, 67, 0.658);
+    color: whitesmoke;
+    font-family: 'league Script',cursive;
+    font-size: 2rem;
+    font-weight: bold;
+}
+.verita{
+    font-family: 'league Script',cursive;
+    font-size: 3rem;
+}

@@ -1,0 +1,41 @@
+body{
+    color:whitesmoke ;
+    background-image: url(../images/tableauNoir.jpg);
+    margin: 0;
+    padding: 0;
+}
+
+
+#presentation{
+    margin: 0;
+    padding: 0; 
+    margin-top: 19rem;  
+    font-size: 2.5rem;
+    background-image: url(../images/multiplyBoard.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 70rem;
+}
+
+#description{
+    margin-top: 15rem;
+    
+}
+
+#description h2{
+    font-family: 'league Script',cursive;
+    font-size: 6rem;
+}
+
+#description p{
+    font-family: 'league Script',cursive;
+    font-size: 3rem;
+}
+
+
+#randomTable p{
+    font-family: 'league Script',cursive;
+    font-size: 2.5rem;
+    padding-top: 15rem;    
+}
